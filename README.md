@@ -41,7 +41,7 @@ google-authenticator 双因子认证和zabbix结合 实现 双认证(等保要�
 4. 启动`google-auth`测试注册和验证码验证接口
 
    ```
-   // 用户注册 //比如 http://localhost:8082/createCode?issuer=root
+   // 用户注册 //比如 http://localhost:8082/createCode?issuer=chengzhenyuan
    $ http://[google-authd地址+端口]/createCode?issuer=[用户名]
     //返回 {"code":1,"msg":"chengzhenyuan 用户注册成功"}  这个时候就在image目录生成了图片
    ```
