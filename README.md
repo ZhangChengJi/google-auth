@@ -48,6 +48,6 @@ google-authenticator 双因子认证和zabbix结合 实现 双认证(等保要�
 
 5. 下载 Authenticator APP ,扫描image 文件下的二维码图片，就会显示当前这个人的口令码了
 
-   ![image-20210729180614150](./app.png)
+   ![app](https://gitee.com/zhangchengji/pic/raw/master/uPic/app.png)
 
  
