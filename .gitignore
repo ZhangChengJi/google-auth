@@ -1,0 +1,39 @@
+.idea/
+
+log
+.DS_Store
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+go.sum
+
+/server/gva
+latest_log
+latest_log
+
+*.iml
+
+HELP.md
+.mvn/
+mvnw.cmd
+mvnw
+
+
+**/*.iml
+
